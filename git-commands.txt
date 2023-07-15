@@ -1,0 +1,12 @@
+inicializar el repositorio, desde la carpeta raiz:
+
+-Crear un repositorio vacio o reinicializar uno existente
+\> git init
+
+-Agregar todos los archivos, omitiendo los listados el .gitignore
+\> git add . 
+
+-Crear un hito de cambios en el repositorio
+\> git commit -m "Primer commit"
+
+--Crear un nuevo repositorio en github.com, al finalizar se generan varios comandos, tres de ellos indican la URL del repositorio, hay que ejecutar esos comandos en la misma carpeta
